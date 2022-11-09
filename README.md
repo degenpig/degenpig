@@ -2,7 +2,7 @@
  Stay HERE, Learn MUCH 🙋‍♂️
 </h2> 
 
-<img align="right" alt="GIF" src="https://github.com/degenpig/degenpig/blob/main/image/giphy.gif" width="450" height="270" />
+<img align="right" alt="GIF" src="https://github.com/degenpig/degenpig/blob/master/image/giphy.gif" width="400" height="250" />
 
 💗 **Main Stack** 💗 
 
