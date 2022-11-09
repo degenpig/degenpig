@@ -29,4 +29,4 @@
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon&logoColor=white&color=3bac3a)
 
 
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=superJackiee&layout=compact&theme=monokai&count_private=true">
+<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=superJackiee&layout=compact&theme=monokai&count_private=true">
