@@ -1,19 +1,8 @@
 ### 👋 Hello, I'm Asseph
 
-<p> 
-    <a href="https://discordapp.com/users/367009301090402325" target="_blank"><img alt="Discord"
-        src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-    <a href="https://t.me/jk00915" target="_blank"><img alt="Telegram"
-        src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-    <a href="https://join.skype.com/invite/yoYWSjLjQEja" target="_blank"><img alt="Skype"
-        src="https://img.shields.io/badge/Skype-230077B5?style=for-the-badge&logo=skype&logoColor=white"/></a>
-   
-</p>
-
 ### ❓ About Me
 
-- 👷‍♂️ I'm a freelance full-stack web3 developer
-- 🔭 Past projects: [Blockchain-Overview](https://github.com/super1002/Web3-Ethereum-Solana-Binance-Bitcoin-NFT-Dex-Defi-P2EGame-SmartContract-Projects)
+- 👷‍♂️ I'm a web3(rust, solidity) developer
 - 🔭 I’m currently working on: Co-founder and Lead Developer at [Elementals_NFT_](https://twitter.com/Elementals_NFT_
 )
 - 🌱 I’m currently learning: EVM smart contract development using [vyper](https://github.com/vyperlang/vyper) and [ape](https://github.com/ApeWorX/ape)
