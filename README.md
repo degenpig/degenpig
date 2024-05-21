@@ -1,11 +1,8 @@
-### 👋 Hello, I'm Asseph
+### 👋 Hello, I'm Mark
 
 ### ❓ About Me
 
 - 👷‍♂️ I'm a web3(rust, solidity) developer
-- 🔭 I’m currently working on: Co-founder and Lead Developer at [Elementals_NFT_](https://twitter.com/Elementals_NFT_
-)
-- 🌱 I’m currently learning: EVM smart contract development using [vyper](https://github.com/vyperlang/vyper) and [ape](https://github.com/ApeWorX/ape)
 - 👨‍💻 I'm interested in DataFi, DeFi, DeID, DeSci, dev tooling, DAO tooling, DeSocial, and NFTs.
 - ⏳ Previously:
   - 5 months freelancing
